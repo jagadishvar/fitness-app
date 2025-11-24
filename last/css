@@ -1,0 +1,15 @@
+smart-fitness-trainer/
+├─ backend/
+│  ├─ app/
+│  │  ├─ main.py
+│  │  ├─ pose_evaluator.py
+│  │  ├─ utils.py
+│  │  └─ requirements.txt
+│  └─ Dockerfile
+├─ frontend/
+│  ├─ App.js
+│  ├─ package.json
+│  ├─ components/
+│  │  └─ CameraScreen.js
+│  └─ firebaseConfig.example.js
+└─ README.md
