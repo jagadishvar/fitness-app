@@ -1,0 +1,19 @@
+{
+  "name": "smart-fitness-trainer",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "expo": "~48.0.0",
+    "expo-camera": "~13.0.2",
+    "expo-status-bar": "~1.4.4",
+    "react": "18.0.0",
+    "react-native": "0.71.0",
+    "axios": "^1.4.0",
+    "firebase": "^9.22.2"
+  }
+}
