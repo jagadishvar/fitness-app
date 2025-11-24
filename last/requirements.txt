@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+opencv-python
+numpy
+mediapipe
+python-multipart
+Pillow
+firebase-admin
+requests
